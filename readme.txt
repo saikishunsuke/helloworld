@@ -4,3 +4,4 @@ hoge
 huga
 honya
 hunyo
+yaho
